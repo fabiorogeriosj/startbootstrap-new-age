@@ -13,5 +13,5 @@
 https://github.com/BlackrockDigital/startbootstrap-new-age
 
 ## Copyright and License
-
+ 
 [MIT](https://github.com/BlackrockDigital/startbootstrap-new-age/blob/gh-pages/LICENSE)
